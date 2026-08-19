@@ -9,9 +9,10 @@ Per avvisi, comunicazioni e informazioni in tempo reale sul corso, iscriversi al
 
 ## Struttura dell'Archivio
 
-* `lezioni/`: PDF delle slide presentate in aula.
 * `esami/`: Informazioni, testi e soluzioni delle prove d'esame passate.
+* `esercitazioni/`: Testi delle esercitazioni svolte durante il corso.
 * `extra/`: Risorse integrative per la preparazione alle esercitazioni e all'esame.
+* `lezioni/`: PDF delle slide presentate in aula.
 
 ## Orari e Sedi
 
