@@ -26,3 +26,7 @@ Per avvisi, comunicazioni e informazioni in tempo reale sul corso, iscriversi al
 * **Lunedì:** 10:00 – 13:00 *(Esercitazioni libere)*
 * **Martedì:** 11:00 – 14:00 *(Sessione 1)*
 * **Mercoledì:** 16:00 – 19:00 *(Sessione 2)*
+
+## Libro di testo
+* [**Programmazione Scientifica**](https://www.programmazionescientifica.org), *Luciano M. Barone, Enzo Marinari, Giovanni Organtini, Federico Ricci-Tersenghi*
+
