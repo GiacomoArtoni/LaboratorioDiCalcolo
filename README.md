@@ -23,9 +23,9 @@ Per avvisi, comunicazioni e informazioni in tempo reale sul corso, iscriversi al
 
 ### Esercitazioni in Laboratorio
 * **Sede:** Laboratorio di Calcolo – Edificio Fermi di Fisica (CU033)
-* **Lunedì:** 10:00 – 13:00 *(Esercitazioni libere)*
-* **Martedì:** 11:00 – 14:00 *(Sessione 1)*
-* **Mercoledì:** 16:00 – 19:00 *(Sessione 2)*
+* **Lunedì:** 10:00 – 13:00 *(Sessione 1)*
+* **Martedì:** 11:00 – 14:00 *(Sessione 2)*
+* **Mercoledì:** 16:00 – 19:00 *(Esercitazioni libere)*
 
 ## Libro di testo
 * [**Programmazione Scientifica**](https://www.programmazionescientifica.org), *Luciano M. Barone, Enzo Marinari, Giovanni Organtini, Federico Ricci-Tersenghi*
