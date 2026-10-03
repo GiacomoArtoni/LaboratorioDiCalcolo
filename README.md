@@ -5,7 +5,7 @@ Archivio contenente le risorse e i materiali utili per la preparazione dell'esam
 ## Google Classroom
 
 Per avvisi, comunicazioni e informazioni in tempo reale sul corso, iscriversi al canale Google Classroom:
-* **Codice corso:** XXXXXXX
+* **Codice corso:** dq5lll5g
 
 ## Struttura dell'Archivio
 
@@ -18,7 +18,7 @@ Per avvisi, comunicazioni e informazioni in tempo reale sul corso, iscriversi al
 
 ### Lezioni Frontali
 * **Sede:** Aula I – Edificio Caglioti di Chimica (CU032)
-* **Lunedì:** 15:00 – 17:00
+* **Lunedì:** 7:00 – 19:00
 * **Martedì:** 08:00 – 09:00
 
 ### Esercitazioni in Laboratorio
