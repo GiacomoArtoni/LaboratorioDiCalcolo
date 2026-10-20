@@ -13,3 +13,6 @@ In questa sezione sono raccolte le slide delle lezioni presentate durante il cor
 | **07. Metodo di lavoro del programmatore**        | 12/10/2026 | [Lezione_07.pdf](./Lezione_07.pdf) |
 | **08. Primo programma in C**                      | 12/10/2026 | [Lezione_08.pdf](./Lezione_08.pdf) |
 | **09. Grafici con Python**                        | 13/10/2029 | [Lezione_09.pdf](./Lezione_09.pdf) |
+| **10. Variabili e tipi**                          | 19/10/2026 | [Lezione_10.pdf](./Lezione_10.pdf) |
+| **11. Operatori ed espressioni**                  | 19/10/2026 | [Lezione_11.pdf](./Lezione_11.pdf) |
+| **12. Output formattato**                         | 20/10/2029 | [Lezione_12.pdf](./Lezione_12.pdf) |
