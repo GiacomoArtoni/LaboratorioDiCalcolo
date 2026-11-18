@@ -15,4 +15,16 @@ In questa sezione sono raccolte le slide delle lezioni presentate durante il cor
 | **09. Grafici con Python**                        | 13/10/2029 | [Lezione_09.pdf](./Lezione_09.pdf) |
 | **10. Variabili e tipi**                          | 19/10/2026 | [Lezione_10.pdf](./Lezione_10.pdf) |
 | **11. Operatori ed espressioni**                  | 19/10/2026 | [Lezione_11.pdf](./Lezione_11.pdf) |
-| **12. Output formattato**                         | 20/10/2029 | [Lezione_12.pdf](./Lezione_12.pdf) |
+| **12. Output formattato**                         | 20/10/2026 | [Lezione_12.pdf](./Lezione_12.pdf) |
+| **13. Input, librerie e preprocessore**           | 27/10/2026 | [Lezione_13.pdf](./Lezione_13.pdf) |
+| **14. Algoritmi e selezione**                     | 27/10/2026 | [Lezione_14.pdf](./Lezione_14.pdf) |
+| **15. Iterazioni**                                | 28/10/2026 | [Lezione_15.pdf](./Lezione_15.pdf) |
+| **16. Esempi scientifici con i cicli**            | 02/11/2026 | [Lezione_16.pdf](./Lezione_16.pdf) |
+| **17. Array monodimensionali**                    | 02/11/2026 | [Lezione_17.pdf](./Lezione_17.pdf) |
+| **18. Elaborazione di dati in un array**          | 03/11/2026 | [Lezione_18.pdf](./Lezione_18.pdf) |
+| **19. Numeri pseudocasuali**                      | 09/11/2026 | [Lezione_19.pdf](./Lezione_19.pdf) |
+| **20. Ordinamento e ricerca**                     | 09/11/2026 | [Lezione_20.pdf](./Lezione_20.pdf) |
+| **21. File in C**                                 | 10/11/2026 | [Lezione_21.pdf](./Lezione_21.pdf) |
+| **22. Array bidimensionali e matrici**            | 16/11/2026 | [Lezione_22.pdf](./Lezione_22.pdf) |
+| **23. Introduzione ai puntatori**                 | 16/11/2026 | [Lezione_23.pdf](./Lezione_23.pdf) |
+| **24. Puntatori e array multidimensionali**       | 17/11/2026 | [Lezione_24.pdf](./Lezione_24.pdf) |
