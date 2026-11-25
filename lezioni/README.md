@@ -28,3 +28,6 @@ In questa sezione sono raccolte le slide delle lezioni presentate durante il cor
 | **22. Array bidimensionali e matrici**            | 16/11/2026 | [Lezione_22.pdf](./Lezione_22.pdf) |
 | **23. Introduzione ai puntatori**                 | 16/11/2026 | [Lezione_23.pdf](./Lezione_23.pdf) |
 | **24. Puntatori e array multidimensionali**       | 17/11/2026 | [Lezione_24.pdf](./Lezione_24.pdf) |
+| **25. Funzioni in C**                             | 23/11/2026 | [Lezione_25.pdf](./Lezione_25.pdf) |
+| **26. Passaggio degli argomenti**                 | 23/11/2026 | [Lezione_26.pdf](./Lezione_26.pdf) |
+| **27. Organizzazione di un programma**            | 24/11/2026 | [Lezione_27.pdf](./Lezione_27.pdf) |
