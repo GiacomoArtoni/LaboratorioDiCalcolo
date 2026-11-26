@@ -13,3 +13,4 @@
 | **04. Controllo di flusso**                          | 02/11/2026 - 03/11/2026 | [esercitazione_04.pdf](./esercitazione_04/esercitazione_04.pdf) |
 | **05. Numeri casuali e array**                       | 09/11/2026 - 10/11/2026 | [esercitazione_05.pdf](./esercitazione_05/esercitazione_05.pdf) |
 | **06. File e array multidimensionali**               | 16/11/2026 - 17/11/2026 | [esercitazione_06.pdf](./esercitazione_06/esercitazione_06.pdf) |
+| **07. Funzioni e scrittura su file**                 | 23/11/2026 - 24/11/2026 | [esercitazione_07.pdf](./esercitazione_07/esercitazione_07.pdf) |
